@@ -1,2 +1,2 @@
-{:remote-repo {:git-url "https://github.com/daslu/noj-getting-started"
+{:remote-repo {:git-url "https://github.com/scicloj/noj-getting-started"
                :branch "main"}}
