@@ -1,0 +1,6 @@
+.cpcache
+.portal
+.calva
+.clay*
+*.qmd
+.nrepl-port
